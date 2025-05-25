@@ -71,7 +71,13 @@ paths:
       parameters:
         - name: status
           in: query
-          description: Filter tasks by status.
+          description: | KFIR'S GET TEST DESCRIPTION, 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON. 
           required: false
           schema:
             $ref: '#/components/schemas/StatusEnum'
@@ -103,3 +109,11 @@ paths:
     post:
       summary: Add a new technical writer task.
       operationId: addTask
+      description: >- 
+        KFIR'S POST TEST DESCRIPTION, 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON 
+            AND SO ON. 
