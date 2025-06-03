@@ -235,7 +235,7 @@ paths:
             X-RateLimit-Remaining:
               schema:
                 type: integer
-              description: The number of requests left for the current time window.
+              description: Just a test decrp
             X-RateLimit-Reset:
               schema:
                 type: string
