@@ -1,7 +1,11 @@
 openapi: 3.0.0
 info:
   title: Technical Writer Tasks API
+<<<<<<< HEAD
   description: Kfir revised june 3rd #3
+=======
+  description: Kfir June 3rd
+>>>>>>> 34777ab (Revised by kfir june 3rd)
   version: 1.0.0
 servers:
   - url: https://api.techwriter.xyz
